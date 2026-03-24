@@ -241,6 +241,11 @@ hash = "482feafeb36d138d7b0ea08e2cf1d35b7c01e408f25c93dce270d1ca70d246dc"
 metafile = true
 
 [[files]]
+file = "mods/mrcrayfish-furniture-mod.pw.toml"
+hash = "e855300be1354899595f3e37e3f080647ae0ae0ac84df292441608c3f8327e21"
+metafile = true
+
+[[files]]
 file = "mods/no-increasing-repair-cost.pw.toml"
 hash = "ff6c14a58e216117696b177e55f1def0b0b9b567d2eb1d7ac4a73d5bccbec808"
 metafile = true
