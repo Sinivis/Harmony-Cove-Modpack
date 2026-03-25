@@ -256,6 +256,11 @@ hash = "ff6c14a58e216117696b177e55f1def0b0b9b567d2eb1d7ac4a73d5bccbec808"
 metafile = true
 
 [[files]]
+file = "mods/oculus.pw.toml"
+hash = "5ef885f9912ff6aa73db254b63a3cd22520f06261bc3c38e7c92f449806a9044"
+metafile = true
+
+[[files]]
 file = "mods/pierce-arrow.pw.toml"
 hash = "6714c7f88ab14d32d53e898a35c6038ce8a5cea6462a58872dc2ee057099b68c"
 metafile = true
