@@ -166,6 +166,11 @@ hash = "c70002269c061bf182dd1ae1814946157af673a7f8c226c3d564065769f9f8f5"
 metafile = true
 
 [[files]]
+file = "mods/farsight.pw.toml"
+hash = "0b4c64ea1972059276a689110c83de55ca01f211320bb9f5c3bff360cf2c6f24"
+metafile = true
+
+[[files]]
 file = "mods/fast-async-world-save-forge-fabric.pw.toml"
 hash = "0d285af302596718fb74920b23c2eceff1b54fe06d107aad51346aabcebfed3d"
 metafile = true
@@ -358,6 +363,16 @@ metafile = true
 [[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "8f907c02b348e25358cf2bca42e9105b9b6103f670bf36432da6752e2c8806db"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "3eede8a7ebafb69840153ff51dbc879b0232799e90a834ab6d71274b1316179f"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "4ddff1daf862f7e481a6c30c4cbb4bb32165f2c73cefc908dbf62b18f0d46a56"
 metafile = true
 
 [[files]]
