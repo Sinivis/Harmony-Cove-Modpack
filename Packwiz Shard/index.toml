@@ -57,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "4cad4f50ffb8846804478936902988d6a8a5e0b781675bf3f75d4fcededafca6"
+hash = "fb46ea6fed057190d17bd20f1e5ea835e1691b629f0d505efdc2279d55090a42"
 metafile = true
 
 [[files]]
@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
+hash = "a74b2d65c286896335b454f61f18be630d0f13767626ebb118584907d1d37112"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/quick-skin.pw.toml"
-hash = "6d134e5d39ee704f9ccbb08c1ead31eda8bcd2cbc46853fd19329a97d814e4f3"
+hash = "319bf4fb4437bc3dde43e35db683c65f997613c42d7320388b95b60005f35739"
 metafile = true
 
 [[files]]
@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium-extra.pw.toml"
-hash = "b8c2ba91c889b159d1b85c11293927958401b4df1898dced176bb70984a22259"
+hash = "b6c84acc6f32d012f1bf0da41c8ebda66e26f2d70614a96779e9d6139b186532"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-movement.pw.toml"
-hash = "6524f2c8618b33b13fee693cefbe7c34d3e69f760670dd653296f4714ded9e5c"
+hash = "855e2a795a897fe0ac7b8f86ca2be0c80184e24362a0556d63b16b30efca424e"
 metafile = true
 
 [[files]]
@@ -417,12 +417,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "cbb583ac3c1da73ef5fe1acf205e856e129c538b9d9fff356192942b143b58e7"
+hash = "3275ee92169fb4486fbd2c9a416ee015eaf0248790e3243cf8eae0ae1bd4ffe0"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "3bcfe8680b1f7a47f722463b9b1aff2bcae11c16b8822696c2fc5e2e9e1da2a8"
+hash = "5095a6b7a739cd378c6a538beccb2bb4a6fa1b7f8f8d67469e7e788cca9366c4"
 metafile = true
 
 [[files]]
