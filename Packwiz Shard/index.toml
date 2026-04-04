@@ -146,6 +146,11 @@ hash = "96297fb477555d0507b753dba3346e228dddf0e18bcef4a2512ac18555bd311e"
 metafile = true
 
 [[files]]
+file = "mods/easy-disenchanting.pw.toml"
+hash = "7f148c30432d5ec77265c46a40895f180d11d9bd5f41b791a41e577752b0f10b"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "a74b2d65c286896335b454f61f18be630d0f13767626ebb118584907d1d37112"
 metafile = true
@@ -413,6 +418,11 @@ metafile = true
 [[files]]
 file = "mods/trotting-wagons.pw.toml"
 hash = "6105ee815a2a5c592d49e8c2432ea45d08cf9ba064c2b75914e62fcef93f08ed"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "7149b1beafef2ce275da37dd5ca2e12f5527ad979420630ecdef5bcabd4fef32"
 metafile = true
 
 [[files]]
