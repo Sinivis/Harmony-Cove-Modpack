@@ -141,6 +141,11 @@ hash = "90484736d203b7fcc858d6f87425bd333326311aa593c75cc53ffb09529d7472"
 metafile = true
 
 [[files]]
+file = "mods/dis-enchanting-table.pw.toml"
+hash = "75d1a752e4ddcbba61c1ccd3c705458ea06e1b53e5f2312b49564b6e10e70959"
+metafile = true
+
+[[files]]
 file = "mods/dont-void-arrows.pw.toml"
 hash = "96297fb477555d0507b753dba3346e228dddf0e18bcef4a2512ac18555bd311e"
 metafile = true
@@ -258,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "049b2cb43144e1137204f579574a94c8520b33e3d6a39d6ad309f498b9387e40"
+metafile = true
+
+[[files]]
+file = "mods/monolib.pw.toml"
+hash = "c7a58d1b2e74001aacdab6bbd185c9b54eea64a3abe9dfde9a7c591ccfa8de19"
 metafile = true
 
 [[files]]
