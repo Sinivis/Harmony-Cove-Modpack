@@ -236,6 +236,11 @@ hash = "3653de15c67147dc2f5ad94b3921f732a47ec5086b792fd0479e1cc03f5d3717"
 metafile = true
 
 [[files]]
+file = "mods/guard-villagers.pw.toml"
+hash = "0879c3901d41cf58510cbd17d24cdd3a1e7ec063dbda3e22aa0ba8acbb5a215d"
+metafile = true
+
+[[files]]
 file = "mods/gunpoweder-craft.pw.toml"
 hash = "c6d208408c2d3bf3211abad81b74d4bf0546657b4fb0bf08cccba507bb166264"
 metafile = true
