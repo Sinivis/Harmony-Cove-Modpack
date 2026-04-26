@@ -141,11 +141,6 @@ hash = "90484736d203b7fcc858d6f87425bd333326311aa593c75cc53ffb09529d7472"
 metafile = true
 
 [[files]]
-file = "mods/dis-enchanting-table.pw.toml"
-hash = "75d1a752e4ddcbba61c1ccd3c705458ea06e1b53e5f2312b49564b6e10e70959"
-metafile = true
-
-[[files]]
 file = "mods/disenchant-splitter.pw.toml"
 hash = "875d153261c73c38fb6a0728cb419c4f974031810db1237dc995516c9963645b"
 metafile = true
@@ -158,11 +153,6 @@ metafile = true
 [[files]]
 file = "mods/durability-tooltip.pw.toml"
 hash = "4a66eb10fbfd1a9cc225eb6c4eadfc03a7938e0427641d25802b7d32748f7a11"
-metafile = true
-
-[[files]]
-file = "mods/easy-disenchanting.pw.toml"
-hash = "7f148c30432d5ec77265c46a40895f180d11d9bd5f41b791a41e577752b0f10b"
 metafile = true
 
 [[files]]
@@ -287,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/monolib.pw.toml"
-hash = "b512862d1e2b863fefc96fef6c08e41e03a7f3cba4cd79a09345d1384d4cfbbe"
+hash = "c7a58d1b2e74001aacdab6bbd185c9b54eea64a3abe9dfde9a7c591ccfa8de19"
 metafile = true
 
 [[files]]
