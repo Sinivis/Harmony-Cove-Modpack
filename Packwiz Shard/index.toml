@@ -221,6 +221,11 @@ hash = "8bd098bd9535460709877edd2aad1a23cccac7d7a48e7bb34c2dc78f01c3ce78"
 metafile = true
 
 [[files]]
+file = "mods/giacomos-bookshelf.pw.toml"
+hash = "fda3a09df84dac7be191f4f910d626778adc6652cf48edba91b49892e1c10b70"
+metafile = true
+
+[[files]]
 file = "mods/global-xp.pw.toml"
 hash = "7419c73a15a2092b2048e7a966fa81ed57834d0d85379c92871db3cc3ea9199f"
 metafile = true
