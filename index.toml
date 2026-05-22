@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "5d1210ecd8af6eb50c34c5d342c5913f1a7a607ab7029b12b5ee891d1532f8f2"
+hash = "0ab295b94a1be0145c9897a26481a48d84c6627b36697cb05d97dc5e68378820"
 metafile = true
 
 [[files]]
@@ -172,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "1f621129a3088055d0f1ff7dd0bddc603aafd4b9bed68d75dd3561e78638e673"
+hash = "d7139e5db4b5a9b5d80330854bb23ce2cd197009b6d8e3636aa017434066b830"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/mns-moogs-nether-structures.pw.toml"
-hash = "d2001cb8dca23194385df3e034f4b610ac12a99bcffa2a669d07e6792d846a11"
+hash = "2e77c9a63f4c7f7a58b31dfdbd87559745c5d37fb49f8465b4fe0b136459d931"
 metafile = true
 
 [[files]]
@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-end-structures.pw.toml"
-hash = "879555fb58afecf365a8bf7fd515da976eac38bcbb4ba241031ad5d089cc0817"
+hash = "f9df784cfaa44ed69247cc3ec37dcea87ad8a3f5bf01decb55f0ce47ae7b870e"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
-hash = "d9cae9fafa098ad8dd5f48289918f45686e6967a6fda95efd7084bd6d70d17c9"
+hash = "c2d4e0f4c71992d795116e94eeba7bc93ff67f8a1a167912f6c5f7a2d6ff00fc"
 metafile = true
 
 [[files]]
@@ -362,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "f6e5552989f40475dafca9bed23b26e7948bcbfc8dcab1b5d60ba14f99dbac69"
+hash = "58650be97623a6bf442f76994776ebd9d9dd46bb264ee64c2cf8ae85457cd40f"
 metafile = true
 
 [[files]]
@@ -377,12 +377,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "2561f8494640e66d11d22fa064a9ef9eff44d4e2a614ead87ad6c5ed887383c6"
+hash = "3d6b483891af93ad0c38fe142a43ff7700e8084360d64318a45b31c104df6a3b"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "1f215c817f70054120ae96e7e382279c1e92729a276dc99075d4a283c5c7fb0f"
+hash = "2e54b316028d09713ac0c15275c32c4ddce5b13d7bdfdfa1522a3d5a0b1eac43"
 metafile = true
 
 [[files]]
