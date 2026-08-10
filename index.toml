@@ -6,6 +6,11 @@ hash = "7885154390b9961ed757a8f2178a09ab00f20a90d53fa9ba13851474a3d6fbe8"
 metafile = true
 
 [[files]]
+file = "mods/aether-villages.pw.toml"
+hash = "429148c4a66b02d1e1b3ff2843319807b49d9929fec48cf6a6dcf9e0219b28eb"
+metafile = true
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "6f87edf40bf0be7e7e266f9e2ff0bf7584c6bedff7975bad3259a21a60d1e598"
 metafile = true
@@ -23,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/amendments.pw.toml"
 hash = "420f60e542e731334fc62fc16a9945a60dfa8f6c5a647c71b2cf9217d50ea7f5"
+metafile = true
+
+[[files]]
+file = "mods/ancient-aether.pw.toml"
+hash = "d9d75846b3bf93dec9da3d85f5d72a7e1ab5849ee38b81d276a7429291a92ebf"
 metafile = true
 
 [[files]]
