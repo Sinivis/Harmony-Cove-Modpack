@@ -151,11 +151,6 @@ hash = "90484736d203b7fcc858d6f87425bd333326311aa593c75cc53ffb09529d7472"
 metafile = true
 
 [[files]]
-file = "mods/deermod-by-arisuwumei.pw.toml"
-hash = "056926a6bf4e7ef9cf9db7b3015493ca9012107f032b29e9bef8348b1411d249"
-metafile = true
-
-[[files]]
 file = "mods/disenchant-splitter.pw.toml"
 hash = "875d153261c73c38fb6a0728cb419c4f974031810db1237dc995516c9963645b"
 metafile = true
