@@ -1,13 +1,13 @@
 name = "Quick Skin"
-filename = "Quick Skin - Forge - 1.20.1-2.6.2.4.jar"
+filename = "Quick Skin - Forge - 1.20.1-3.1.0.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ace85ce63a791ae84d323d469d0b76003ab32718"
+hash = "931665ad6a19aea2de954259cd5bce8b4d12914b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7718934
+file-id = 9065507
 project-id = 1323980

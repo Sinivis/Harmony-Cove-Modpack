@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/amendments.pw.toml"
-hash = "420f60e542e731334fc62fc16a9945a60dfa8f6c5a647c71b2cf9217d50ea7f5"
+hash = "4327ca177fdbd9cfc0c2f442bec68899b6c8e8eb46f0e6b04548178c244b6a84"
 metafile = true
 
 [[files]]
@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/anvil-restoration.pw.toml"
-hash = "4c5e1a8f1d1b433c062db625c8446c584d03a2685bb58b592ca01743bb35f089"
+hash = "45aab9a64d3d4fd976d5a7181b04450bb2a284789247d840f7aa3376f4b49529"
 metafile = true
 
 [[files]]
@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/astikor-carts-redux.pw.toml"
-hash = "9c55eeb7b61f7180cbd99a833b9fab5cb9121f747610f9eefd6be7361d1d0a7b"
+hash = "37b5008862be83c7a123e4f5550a2ca5186a9e39d1aba4475be974199dfa68a6"
 metafile = true
 
 [[files]]
@@ -92,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "0ab295b94a1be0145c9897a26481a48d84c6627b36697cb05d97dc5e68378820"
+hash = "c2ef27a7a7565b2a77604007f0dfec47c49013e8e5c5a92df450e1df8c650b15"
 metafile = true
 
 [[files]]
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "a432e8775c2bdec53fca88146917905c5c82273e1b66af48b5ace0809433c8fe"
+hash = "993a3a0df7b5ea59ededb0434ebe948f254835201e48c79bc6c644dc63aa71bb"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "7e58c4b66225f8719153ab8dbafd5973a04a0ec5bb400027cb1d6c482010d08a"
+hash = "77f479f765b307ff09a3d0b90719bb3b929d59af193d1ed746dab513fe14f2c5"
 metafile = true
 
 [[files]]
@@ -182,12 +182,12 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "d7139e5db4b5a9b5d80330854bb23ce2cd197009b6d8e3636aa017434066b830"
+hash = "349c06c50fa315e9eb618d115f7d1391062706021c645e14f86afae3109d4662"
 metafile = true
 
 [[files]]
 file = "mods/farsight.pw.toml"
-hash = "37d3e671ca1a778f75a68615f2a3aaa7b1c74c3becf616a72c15d0b1c1549105"
+hash = "c7f937c8ff3e2b49a04c5e6fc8baa54226b8111f327c800fc4358f2c70e3b9ae"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/fixed-anvil-repair-cost.pw.toml"
-hash = "f38a65ce0ce855debf9b44c95521e57790197c2e5bb2052cecc08ede56ed9fca"
+hash = "06b5b98309b5d509723b4630037b2d07ec694402a9a7bb7b25fcb713a04f31ad"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/guard-villagers.pw.toml"
-hash = "0879c3901d41cf58510cbd17d24cdd3a1e7ec063dbda3e22aa0ba8acbb5a215d"
+hash = "cfd6e4b9eb13eb30b49a629c7ed92e87d16b700589e95af795e9a7bfe2854998"
 metafile = true
 
 [[files]]
@@ -256,8 +256,13 @@ hash = "92f1c52dbc41ca1f065dc77d813c728a8d550a0baa4be5daabfb9b34bd55e8d5"
 metafile = true
 
 [[files]]
+file = "mods/immersive-portals-for-forge.pw.toml"
+hash = "3f39a4de2aa2f99842f2cbb3cc3af2d19335cc57c1ce52a26fb985cd937ec311"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
-hash = "7462fac47d19eab330cdf24eb07c65a5c421ded2d94675fb8ef21cdbbb034c13"
+hash = "fcdb28f2879759167d5caba28d2bdc3b7ed61ee6f49c5ed0c134632415d52dcb"
 metafile = true
 
 [[files]]
@@ -271,13 +276,18 @@ hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
 metafile = true
 
 [[files]]
+file = "mods/macaws-doors.pw.toml"
+hash = "dedd63a029e779fa904ae374de5dea1d655bb5527701fe262f8bea2a0c1d0d3d"
+metafile = true
+
+[[files]]
 file = "mods/minetraps.pw.toml"
 hash = "22e9a4d74e2f7530de829ee23d0bb5eee61f51575754d8804fd5ffa6206a87e4"
 metafile = true
 
 [[files]]
 file = "mods/mns-moogs-nether-structures.pw.toml"
-hash = "2e77c9a63f4c7f7a58b31dfdbd87559745c5d37fb49f8465b4fe0b136459d931"
+hash = "ada61fe15a0f92cb2f76e61b32d09dc16f9437545a469abd7906bd6102385d25"
 metafile = true
 
 [[files]]
@@ -297,17 +307,17 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-end-structures.pw.toml"
-hash = "f9df784cfaa44ed69247cc3ec37dcea87ad8a3f5bf01decb55f0ce47ae7b870e"
+hash = "c3ac9266b85d8d4d236ba99c7093df61b049d963a2535be8286b5d9a625502dd"
 metafile = true
 
 [[files]]
 file = "mods/moogs-structure-lib.pw.toml"
-hash = "17e4dafb5a358e998d47db18a2d0b2d66360a835adf1b3cf06514398e99b3017"
+hash = "d5c56c094d743a69e19350abe708f4f181607055dd266c495354736c31d620a5"
 metafile = true
 
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
-hash = "c2d4e0f4c71992d795116e94eeba7bc93ff67f8a1a167912f6c5f7a2d6ff00fc"
+hash = "a874ad656ec174e8b1e14906f2477eeec898e20d6f2da1485ebb2f16a79ff3d2"
 metafile = true
 
 [[files]]
@@ -342,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "mods/quick-skin.pw.toml"
-hash = "6d134e5d39ee704f9ccbb08c1ead31eda8bcd2cbc46853fd19329a97d814e4f3"
+hash = "a37830d17f903f8319ce20af468cc4b415dd4f6da8d79c7142451c6dd6909a7a"
 metafile = true
 
 [[files]]
@@ -372,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "58650be97623a6bf442f76994776ebd9d9dd46bb264ee64c2cf8ae85457cd40f"
+hash = "76c3da476419c86e63d828ceb2e502706a25c8a06cd05a3620b9a3dbb3635fa3"
 metafile = true
 
 [[files]]
@@ -382,17 +392,17 @@ metafile = true
 
 [[files]]
 file = "mods/smooth-movement.pw.toml"
-hash = "855e2a795a897fe0ac7b8f86ca2be0c80184e24362a0556d63b16b30efca424e"
+hash = "c93c6f68d8bf528c478db57fda8b2dd335783e6c534b1ec43564118865fddecb"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "3d6b483891af93ad0c38fe142a43ff7700e8084360d64318a45b31c104df6a3b"
+hash = "a4b98a2343f99dfd4007fddffb3884dac15d54bae192b24396b238c4d84cb8e6"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "2e54b316028d09713ac0c15275c32c4ddce5b13d7bdfdfa1522a3d5a0b1eac43"
+hash = "0a2741eb12ffb1cdaab2cc70f3ca9268dd76e5e1c746b5afaf5c619792c2ef5a"
 metafile = true
 
 [[files]]
