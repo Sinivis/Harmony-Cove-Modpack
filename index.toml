@@ -271,11 +271,6 @@ hash = "3d678b89dc59dd838f059366a01d6d5c4afb7197b1a4f682826bd6d974a18706"
 metafile = true
 
 [[files]]
-file = "mods/krypton-reforged.pw.toml"
-hash = "ba2f214504381c53f588e1a52d8be657b47ed53a256b45d623cea2c724748afa"
-metafile = true
-
-[[files]]
 file = "mods/macaws-doors.pw.toml"
 hash = "dedd63a029e779fa904ae374de5dea1d655bb5527701fe262f8bea2a0c1d0d3d"
 metafile = true
