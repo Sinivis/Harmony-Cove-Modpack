@@ -71,6 +71,11 @@ hash = "fb46ea6fed057190d17bd20f1e5ea835e1691b629f0d505efdc2279d55090a42"
 metafile = true
 
 [[files]]
+file = "mods/better-chunk-loading-forge-fabric.pw.toml"
+hash = "bc67d4140ad26a4dbc8c1b452812b5836e357e1de6ffdc56f7505a9e28300b22"
+metafile = true
+
+[[files]]
 file = "mods/canary.pw.toml"
 hash = "e5df83a3dd1686106741d1d61da5869aed0537c2931a40234e1b3bd2d09e1971"
 metafile = true
@@ -251,6 +256,11 @@ hash = "92f1c52dbc41ca1f065dc77d813c728a8d550a0baa4be5daabfb9b34bd55e8d5"
 metafile = true
 
 [[files]]
+file = "mods/immersive-portals-for-forge.pw.toml"
+hash = "3f39a4de2aa2f99842f2cbb3cc3af2d19335cc57c1ce52a26fb985cd937ec311"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "fcdb28f2879759167d5caba28d2bdc3b7ed61ee6f49c5ed0c134632415d52dcb"
 metafile = true
@@ -361,8 +371,18 @@ hash = "b6c84acc6f32d012f1bf0da41c8ebda66e26f2d70614a96779e9d6139b186532"
 metafile = true
 
 [[files]]
+file = "mods/saturn.pw.toml"
+hash = "f9be8361c39f91dce80420324ac45290a990e8178b83df6bdaa8d69f2c7aa8d4"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "76c3da476419c86e63d828ceb2e502706a25c8a06cd05a3620b9a3dbb3635fa3"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "e80b940cd9a3aa703d0462101e4a8f0840f69d969a202aaa1294816fc6bc64e7"
 metafile = true
 
 [[files]]
